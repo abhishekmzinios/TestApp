@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 my name is Abhijeet hahahahahhahahaahahahahahahahahaah
+=======
+my name is a
+>>>>>>> 12d8d6f3eb19725a24826005e770e72d5633eff8
+I am Batman
