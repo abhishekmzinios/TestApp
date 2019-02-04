@@ -1,0 +1,13 @@
+Web Testing-
+1.Front-end 
+2.API (Remove Catche)
+3.Performance (How much concurent users it support)
+4.G-ZIP- server side request compression
+5.Rest methodology/Protocol
+6.Socket.io (multi user session)
+7.Auxillary.io
+8.Page loading time (Chrome web tool- Profilers)
+
+Application Testing-
+->Performance 
+->Make a sheet with the asana tickets and screenshot Test Report
